@@ -3,7 +3,7 @@
  * [Scott Meyers: A Shotgun Firehose Introduction to TR1 and Boost](https://github.com/boostcon/2007_presentations/raw/master/An_Introduction_to_TR1_and_Boost_2-ups.pdf)
  * [Abrahams: Boost Metaprogramming Concepts and Frameworks](https://github.com/boostcon/2007_presentations/raw/master/Boost_Metaprogramming_Concepts_and_Frameworks.pdf)
  * [Jeremy Siek: Generic Programming and the Boost Graph Library](https://github.com/boostcon/2007_presentations/raw/master/BoostGraphLibraryL.pdf)
- * [Abrahams: Hybrid Development with Boost.Python (and More!)](https://github.com/boostcon/2007_presentations/raw/master/Hybrid_Development_with_Boost.Python_and_More.pdf)
+ * [Abrahams: Hybrid Development with Boost.Python (and More!)](https://github.com/boostcon/2007_presentations/raw/master/Hybrid_Development_with_Boost.pdf)
  * [Rene Rivera: Testing Boost: a Planning and Design Sprint](https://github.com/boostcon/2007_presentations/raw/master/boostcon07-testing-boost.pdf)
  * [Domain Specific Embedded Languages with Boost.Proto](https://github.com/boostcon/2007_presentations/raw/master/Proto2.pdf)
  * [Jeff Garland and Kevlin Henney: Value-Based Programming with Boost](https://github.com/boostcon/2007_presentations/raw/master/value_programming_with_boost.pdf)
